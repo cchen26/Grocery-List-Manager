@@ -1,9 +1,5 @@
 # GLM Application
 
-## Table of Contents
-* [Installation and Usage of the Application](#installation-and-usage-of-the-application)
-
-
 ## Installation and Usage of the Application
 1. Install Android Studios
 2. Clone this project on your local repository
