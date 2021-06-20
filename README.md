@@ -68,7 +68,7 @@ After the user loads up the GLM application, the user will be taken to the first
 - Press `Delete` to delete your list.
 
 ## Adding Items to a List
-![AddingAnItemtoList](../Images/GIFS/AddingAnItemtoList.gif)
+![AddingAnItemtoList](./Images/GIFS/AddingAnItemtoList.gif)
 - To add an item to a list, you must be within a list (Refer back to selecting a list).
 - Once in the list, press the circular `+` on the bottom right.
 - A popup menu will appear asking you to enter a name.
