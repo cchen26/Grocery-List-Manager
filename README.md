@@ -43,18 +43,18 @@
 After the user loads up the GLM application, the user will be taken to the first page of the application, which is the list of lists. If this is the first time the user has booted up the application, it will have no lists.
 
 ## Adding a New List
-![Adding_A_New_List](../Images/GIFS/AddingANewList.gif)
+![Adding_A_New_List](./Images/GIFS/AddingANewList.gif)
 - To add a new list, click on the circular `+` icon on the bottom right of the application. 
 - A popup will appear asking you to enter a name. 
 - Here you will enter the name of your new list. 
 - Press `OK` to create your new list.
 
 ## Selecting a List
-![SelectingAList](../Images/GIFS/SelectingAList.gif)
+![SelectingAList](./Images/GIFS/SelectingAList.gif)
 - To select a list, simply tap on the desired list. You will know you are in a list once the title changes from `GLM` to the name of your list.
 
 ## Renaming a List
-![RenamingAList](../Images/GIFS/RenamingAList.gif)
+![RenamingAList](./Images/GIFS/RenamingAList.gif)
 - To rename a list, simply long hold the list you want to rename.
 - A popup menu with `Rename` and `Delete` will appear.
 - Press `Rename`.
@@ -62,7 +62,7 @@ After the user loads up the GLM application, the user will be taken to the first
 - Press `OK` to rename your list.
 
 ## Deleting a List
-![DeletingAList](../Images/GIFS/DeletingAList.gif)
+![DeletingAList](./Images/GIFS/DeletingAList.gif)
 - To delete a list, simply long hold the list you want to delete.
 - A popup menu with `Rename` and `Delete` will appear.
 - Press `Delete` to delete your list.
@@ -76,7 +76,7 @@ After the user loads up the GLM application, the user will be taken to the first
 - The item will appear in your list with default value of `None` and `1` for category and quantity.
 
 ## Renaming an Item in a List
-![RenamingAnItem](../Images/GIFS/RenamingAnItem.gif)
+![RenamingAnItem](./Images/GIFS/RenamingAnItem.gif)
 - To rename an item in your list, long hold the item you wish to rename.
 - A popup menu with `Edit` and `Delete` will appear.
 - Press `Edit`.
@@ -87,7 +87,7 @@ After the user loads up the GLM application, the user will be taken to the first
 - Press `OK` to rename your item.
 
 ## Changing the Category of an Item
-![ChangingCategoryofItem](../Images/GIFS/ChangingCategoryofItem.gif)
+![ChangingCategoryofItem](./Images/GIFS/ChangingCategoryofItem.gif)
 - To change the category of an item, long hold the item you wish to change the category of.
 - A popup menu with `Edit` and `Delete` will appear.
 - Press `Edit`.
@@ -97,7 +97,7 @@ After the user loads up the GLM application, the user will be taken to the first
 - Select the category you want.
 
 ## Changing the Amount of an Item
-![ChangingAmountofItem](../Images/GIFS/ChangingQuantityofItem.gif)
+![ChangingAmountofItem](./Images/GIFS/ChangingQuantityofItem.gif)
 - To change the amoung of an item, long hold the item you wish to change the amount of.
 - A popup menu with `Edit` and `Delete` will appear.
 - Press `Edit`.
@@ -108,13 +108,13 @@ After the user loads up the GLM application, the user will be taken to the first
 - Press `OK` to change the amount.
 
 ## Deleting an Item in a List
-![DeletingItemFromList](../Images/GIFS/DeletingItemFromList.gif)
+![DeletingItemFromList](./Images/GIFS/DeletingItemFromList.gif)
 - To delete an item from a list, long hold the item you wish to delete.
 - A popup menu with `Edit` and `Delete` will appear.
 - Press `Delete` to delete the item from your lise.
 
 ## Checking Item off a List
-![CheckingItemoffAList](../Images/GIFS/CheckingItemoffAList.gif)
+![CheckingItemoffAList](./Images/GIFS/CheckingItemoffAList.gif)
 - To check off an item from a list, simply press the box on the far right of the item you would like to check off.
 - The icon should have a green checkmark once pressed to indicate that the item has been checked.
 
@@ -123,20 +123,20 @@ After the user loads up the GLM application, the user will be taken to the first
 - 1) We can search by the category that the item belongs to
 - 2) We can search by the item itself 
 ### Searching By Category
-![SearchingByCategory](../Images/GIFS/SearchingByCategory.gif)
+![SearchingByCategory](./Images/GIFS/SearchingByCategory.gif)
 - To search by category, press the search bar on top of the list to start searching.
 - Enter a category that you have in your list.
 - In the example GIF, `Cookies Snacks & Candy` was used to retrieve `chips`, which belonged to that said category.
 
 
 ### Searching By Item
-![SearchingByItem](../Images/GIFS/SearchingByItem.gif)
+![SearchingByItem](./Images/GIFS/SearchingByItem.gif)
 - To search by item, press the search bar on top of the list to start searching.
 - Enter an item that you have in you list.
 - In the example GIF, entering `bagel` would return `bagel` if it exists in the list.
 
 ## Data Persistence
-![DataisPersisted](../Images/GIFS/DataisPersisted.gif)
+![DataisPersisted](./Images/GIFS/DataisPersisted.gif)
 - This is to show that the data is persisted, even after the user exits and closes the application.
 
 
